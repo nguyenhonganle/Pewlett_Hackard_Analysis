@@ -19,6 +19,8 @@ Furnish a bulleted list with four significant focuses from the two examination e
 4,502 Technique Leader
 1,761 Assistant Engineer
 
+![result challenge](image/result_challenge.png)
+
 ### Summary
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
@@ -31,3 +33,4 @@ Provide high-level responses to the following questions, then provide two additi
 
 No, we have 1,940 employees who are eligible to participate in a mentorship program.
 
+![summary challenge](image/summary_challenge.png)
